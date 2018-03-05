@@ -1473,9 +1473,9 @@ form label {
   }
 }
 #gtco-features-3 .feature {
-  width: 33.33%;
+  width: 100%;
   float: left;
-  padding: 30px;
+  padding: 30 px;
   background: #17B794;
   position: relative;
   text-align: center;
